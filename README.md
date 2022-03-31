@@ -6,4 +6,4 @@
 
 ![Maria Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=madumorais&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=d83a7c&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/peguimasid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madumorais&layout=compact&title_color=d83a7c&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/madumorais)
